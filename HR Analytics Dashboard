@@ -1,0 +1,19 @@
+## 📌 Features
+- Headcount and Attrition Overview
+- Employee Demographics Analysis
+- Department-Wise Performance
+- Gender Ratio and Diversity Metrics
+- Tenure, Age, and Experience Breakdown
+- Interactive Filters by Department, Gender, and Employment Status
+
+## 📁 Folder Structure
+- `Dataset/`: Contains the source data.
+- `PowerBI_Report/`: Contains the `.pbix` file for Power BI.
+- `Documentation/`: Includes metric definitions and project overview.
+- `Images/`: Dashboard screenshots for preview.
+
+## 🛠 Technologies Used
+- Power BI Desktop
+- DAX Measures
+- Data Modeling (Relationships, Normalization)
+- HR Domain KPIs
